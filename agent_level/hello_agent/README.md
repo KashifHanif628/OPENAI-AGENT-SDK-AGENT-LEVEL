@@ -95,14 +95,21 @@ Aur output me kuch aisa milega:
 # Output
 👉 Agent-Level Response:
 A function calls self—
+
 nested layers deep within,
+
 code that loops in peace.
 
 
 ✅ Summary (Aasan Zubaan Me)
 Cheez	Matlab
+
 Agent	Aapka assistant/chatbot
+
 Runner.run()	Yeh agent se sawaal karne aur jawab lene ka tareeqa hai
+
 model="gemini..."	Aap OpenAI ke bajaye Gemini model use kar rahe hain
+
 .env file	API key secure rakhne ka tareeqa
+
 uv run	Script chalane ka tareeqa
